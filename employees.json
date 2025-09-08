@@ -1,0 +1,229 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": [
+        "Python",
+        "React",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "E-commerce Platform",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": [
+        "Machine Learning",
+        "scikit-learn",
+        "pandas"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Patient Risk Prediction System",
+        "Finance Forecast Tool"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Medical Data Processing"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "X-ray Analysis AI"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Banking Transaction System",
+        "Loan Approval API"
+      ],
+      "availability": "unavailable"
+    },
+    {
+      "id": 5,
+      "name": "Priya Sharma",
+      "skills": [
+        "React Native",
+        "Firebase",
+        "UI/UX Design"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Fitness Tracking App",
+        "Food Delivery App"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "James Lee",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Cloud Migration Project",
+        "DevOps Automation"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Maria Gonzalez",
+      "skills": [
+        "Data Science",
+        "Python",
+        "NLP"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Chatbot Development",
+        "Customer Sentiment Analysis"
+      ],
+      "availability": "unavailable"
+    },
+    {
+      "id": 8,
+      "name": "Robert Brown",
+      "skills": [
+        "C#",
+        ".NET Core",
+        "Azure"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Inventory Management System",
+        "Retail POS Software"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Ananya Gupta",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Power BI"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Sales Analytics Dashboard",
+        "HR Reporting Tool"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "William Smith",
+      "skills": [
+        "Golang",
+        "Microservices",
+        "PostgreSQL"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Real-time Payment Gateway",
+        "Fraud Detection System"
+      ],
+      "availability": "unavailable"
+    },
+    {
+      "id": 11,
+      "name": "Nina Patel",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Company Website Redesign",
+        "Marketing Landing Pages"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Ethan Wright",
+      "skills": [
+        "Python",
+        "Flask",
+        "MongoDB"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "API Development",
+        "IoT Data Pipeline"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Laura Martinez",
+      "skills": [
+        "React",
+        "Node.js",
+        "GraphQL"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Social Media Platform",
+        "Streaming Service"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Hiroshi Tanaka",
+      "skills": [
+        "Rust",
+        "Blockchain",
+        "Smart Contracts"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Crypto Exchange",
+        "NFT Marketplace"
+      ],
+      "availability": "unavailable"
+    },
+    {
+      "id": 15,
+      "name": "Fatima Al-Zahra",
+      "skills": [
+        "AI Ethics",
+        "Responsible AI",
+        "Policy Compliance"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "AI Governance Framework",
+        "Bias Detection System"
+      ],
+      "availability": "available"
+    }
+  ]
+}
